@@ -29,7 +29,7 @@ Similar to Aliyundrive, the last string of the official website URL, such as:
 ![google](/img/drivers/googledrive.png)
 
 ### **refresh_token [Google Service Account/SA]**
-> You will be allowed to use Google Service Account/SA to access files in your Google Drive in v3.17.0 and later versions. 
+> You will be allowed to use Google Service Account/SA to access files in your Google Drive in v3.17.0 和 later versions. 
 
 > Simply fill in the **refresh_token** field with the **path to the SA file** or the **folder where it is located** to access your Google Drive using the Google Service Account/SA.
 
@@ -104,7 +104,7 @@ After the above operations, we also got the `refresh token`, let’s go to **`Al
 
 After adding an account in the background and saving it, we will mount it successfully~ Let's take a look
 
-The left side is mounted by Alist, and the right side is the contents of Google Drive~ **o(*^＠^*)o**
+The left side shows the contents of Google Drive, 和 the right side is mounted by Alist.~ **o(*^＠^*)o**
 
 ![Google](/img/drivers/google/Google-13-1.png)
 
