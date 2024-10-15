@@ -97,7 +97,7 @@ star: true
 
 后台添加账号保存后我们就挂载成功啦~我们来看下吧
 
-左侧是Alist挂载的 右侧是谷歌网盘里面的内容~ **o(*^＠^*)o**
+左侧是谷歌网盘里面的内容 右侧是Alist挂载的~ **o(*^＠^*)o**
 
 ![Google](/img/drivers/google/Google-13-1.png)
 
